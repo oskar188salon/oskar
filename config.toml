@@ -13,12 +13,12 @@ theme = "airspace-hugo"
   [[menu.header]]
     weight = 2
     name = "Contact"
-    url = "#contact-box"
+    url = "#contact"
 
   [[menu.header]]
     weight = 3
     name = "Location"
-    url = "#contact-box"
+    url = "#location"
 
 # The site's parameters
 [params]
