@@ -11,8 +11,8 @@ theme = "airspace-hugo"
     url = "/gallery"
   [[menu.header]]
     weight = 2
-    name = "Contact"
-    url = "/contact"
+    name = "Location"
+    url = "/location"
 
 # The site's parameters
 [params]
@@ -51,18 +51,13 @@ theme = "airspace-hugo"
 
   [params.contact]
     enable = true
-    title = "Contact me"
-    #subtitle = "Don’t just take our word for it. Check out some of our latest work."
-    [params.contact.form]
-      name = "Your name"
-      email = "Your email"
-      subject = "Your subject"
-      message = "Your message"
-      button = "Send message"
+    title = "Stop by for the most trendy hairstyle in Vancouver"
+    subtitle = ""
     [params.contact.box]
-      title = "Stop by for a visit"
+      title = "Contact me"
       address = "4396 Imperial St, Burnaby, BC V5J 1A9"
       email = "Email: oskar188salon@gmail.com"
       phone = "Phone: +1 604 559 0306"
+      insta = "Instagram: oskar188salon"
     [params.contact.gmaps]
       title = "Locate my salon in Google Maps"
