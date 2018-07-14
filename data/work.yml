@@ -2,7 +2,32 @@ enable: true
 title: Just some of our latest projects.
 subtitle: Don’t just take our word for it. Check out some of our latest work.
 
+portkeys:
+  - category: Women
+  - category: Men
+  - category: Children
+  - category: Studio
+
 portfolio:
+  - category: Studio
+    url: "#"
+    image: "/img/salon/salon_4016.jpg"
+  - category: Studio
+    url: "#"
+    image: "/img/salon/salon_4029.jpg"
+  - category: Studio
+    url: "#"
+    image: "/img/salon/salon_4026.jpg"
+  - category: Studio
+    url: "#"
+    image: "/img/salon/salon_4015.jpg"
+  - category: Studio
+    url: "#"
+    image: "/img/salon/salon_4021.jpg"
+  - category: Studio
+    url: "#"
+    image: "/img/salon/salon_4030.jpg"
+
   - category: Men
     url: "#"
     image: "/img/portfolio/work1.jpg"
@@ -12,6 +37,3 @@ portfolio:
   - category: Children
     url: "#"
     image: "/img/portfolio/work2.jpg"
-  - category: Studio
-    url: "#"
-    image: "/img/portfolio/work3.jpg"

@@ -7,7 +7,7 @@
               <div class="portfolio-menu">
                 <ul>
                     <li class="filter" data-filter="all">Everything</li>
-                  {{ range .Site.Data.work.portfolio }}
+                  {{ range .Site.Data.work.portkeys }}
                     <li class="filter" data-filter=".{{ .category }}">{{ .category }}</li>
                   {{ end }}
                 </ul>
@@ -17,13 +17,12 @@
                   {{ range .Site.Data.work.portfolio }}
                     <li class="mix {{ .category }}">
                       <a href="{{ $.Site.BaseURL }}{{ .image }}">
-                        <img src="{{ $.Site.BaseURL }}{{ .image }}" alt="">
+                        <img style="object-fit: cover;height: 300px;width: 365px;" src="{{ $.Site.BaseURL }}{{ .image }}" alt="">
                         <!-- <div class="overly"> -->
-                          <!-- <div class="position-center"> -->
-                          <!--   <h2>{{ .name }}</h2> -->
-                          <!--   <p>{{ .description }}</p> -->
-
-                          <!-- </div> -->
+                        <!--   <div class="position-center"> -->
+                        <!--     <h2>{{ .name }}</h2> -->
+                        <!--     <p>{{ .description }}</p> -->
+                        <!--   </div> -->
                         <!-- </div> -->
                       </a>
                   </li>
