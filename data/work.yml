@@ -9,6 +9,55 @@ portkeys:
   - category: Studio
 
 portfolio:
+
+  - category: Women
+    url: "img/women/IMG_3937.jpg"
+    image: "img/women/thumbs/IMG_3937.jpg"
+  - category: Women
+    url: "img/women/IMG_3936.jpg"
+    image: "img/women/thumbs/IMG_3936.jpg"
+  - category: Women
+    url: "img/women/IMG_3934.jpg"
+    image: "img/women/thumbs/IMG_3934.jpg"
+  - category: Women
+    url: "img/women/IMG_3928.jpg"
+    image: "img/women/thumbs/IMG_3928.jpg"
+  - category: Women
+    url: "img/women/IMG_1574.jpg"
+    image: "img/women/thumbs/IMG_1574.jpg"
+  - category: Women
+    url: "img/women/IMG_3932.jpg"
+    image: "img/women/thumbs/IMG_3932.jpg"
+  - category: Women
+    url: "img/women/IMG_3930.jpg"
+    image: "img/women/thumbs/IMG_3930.jpg"
+  - category: Women
+    url: "img/women/IMG_1718.jpg"
+    image: "img/women/thumbs/IMG_1718.jpg"
+  - category: Women
+    url: "img/women/IMG_3935.jpg"
+    image: "img/women/thumbs/IMG_3935.jpg"
+  - category: Women
+    url: "img/women/IMG_0223.jpg"
+    image: "img/women/thumbs/IMG_0223.jpg"
+  - category: Women
+    url: "img/women/IMG_0216.jpg"
+    image: "img/women/thumbs/IMG_0216.jpg"
+  - category: Women
+    url: "img/women/IMG_2283.png"
+    image: "img/women/thumbs/IMG_2283.png"
+  - category: Women
+    url: "img/women/IMG_3931.jpg"
+    image: "img/women/thumbs/IMG_3931.jpg"
+
+  - category: Men
+    url: "img/men/IMG_3933.jpg"
+    image: "img/men/thumbs/IMG_3933.jpg"
+
+  - category: Children
+    url: "img/children/IMG_3909.jpg"
+    image: "img/children/thumbs/IMG_3909.jpg"
+
   - category: Studio
     url: "img/salon/salon_4016.jpg"
     image: "img/salon/thumbs/salon_4016.jpg"
