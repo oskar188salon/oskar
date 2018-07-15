@@ -11,10 +11,14 @@
               <i class="fa fa-map-marker"></i>{{ .box.address }}
             </li>
             <li>
-              <i class="fa fa-envelope-o"></i>{{ .box.email }}
+              <i class="fa fa-envelope-o"></i>
+              <a href="mailto:{{ .box.email}}?Subject=Salon" target="_top">{{ .box.email}}</a>
             </li>
             <li>
               <i class="fa fa-phone"></i>{{ .box.phone }}
+            </li>
+            <li>
+              <i class="fa fa-facebook"></i><a target="_blank" href="{{ .box.facebook.url }}">{{ .box.facebook.name }}</a>
             </li>
           </ul>
           <ul class="social-icons">
