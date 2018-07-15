@@ -1,6 +1,6 @@
 .about-heading {
   font-family: 'Open Sans', sans-serif;
-  font-transform: none;
+  text-transform: none !important;
   font-weight: 300 !important;
   color: #000;
   font-size: 28px;
