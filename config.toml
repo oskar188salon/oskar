@@ -8,7 +8,7 @@ theme = "airspace-hugo"
   [[menu.header]]
     weight = 1
     name = "Gallery"
-    url = "#portfolio-work"
+    url = "#gallery"
 
   [[menu.header]]
     weight = 2

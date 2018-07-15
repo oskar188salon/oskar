@@ -1,9 +1,10 @@
 <!-- Portfolio Start -->
-<section id="portfolio-work">
+<section id="portfolio-work" style="padding-bottom: 0">
     <div class="container">
         <div class="row">
           <div class="col-md-12">
             <div class="block">
+              <h2 id="gallery" class="gallery-heading">Gallery</h2>
               <div class="portfolio-menu">
                 <ul>
                     <li class="filter" data-filter="all">Everything</li>
@@ -13,21 +14,15 @@
                 </ul>
               </div>
               <div class="portfolio-contant">
-                <ul id="portfolio-contant-active">
+                <div id="portfolio-contant-active" class="row">
                   {{ range .Site.Data.work.portfolio }}
-                    <li class="mix {{ .category }}">
-                      <a href="{{ $.Site.BaseURL }}{{ .image }}">
-                        <img style="object-fit: cover;height: 300px;width: 365px;" src="{{ $.Site.BaseURL }}{{ .image }}" alt="">
-                        <!-- <div class="overly"> -->
-                        <!--   <div class="position-center"> -->
-                        <!--     <h2>{{ .name }}</h2> -->
-                        <!--     <p>{{ .description }}</p> -->
-                        <!--   </div> -->
-                        <!-- </div> -->
+                    <div class="col-xs-12 col-sm-6 col-md-4 col-lg-3 mix {{ .category}}">
+                      <a href="{{ $.Site.BaseURL }}{{ .image }}" class="thumbnail">
+                        <img src="{{ $.Site.BaseURL }}{{ .image }}" alt=""/>
                       </a>
-                  </li>
+                    </div>
                   {{ end }}
-                </ul>
+                </div>
               </div>
             </div>
           </div>

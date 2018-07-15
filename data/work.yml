@@ -9,31 +9,61 @@ portkeys:
   - category: Studio
 
 portfolio:
-  - category: Studio
-    url: "#"
-    image: "/img/salon/salon_4016.jpg"
-  - category: Studio
-    url: "#"
-    image: "/img/salon/salon_4029.jpg"
-  - category: Studio
-    url: "#"
-    image: "/img/salon/salon_4026.jpg"
-  - category: Studio
-    url: "#"
-    image: "/img/salon/salon_4015.jpg"
-  - category: Studio
-    url: "#"
-    image: "/img/salon/salon_4021.jpg"
-  - category: Studio
-    url: "#"
-    image: "/img/salon/salon_4030.jpg"
+  # - category: Studio
+  #   url: "#"
+  #   image: "/img/salon/salon_4016.jpg"
+  # - category: Studio
+  #   url: "#"
+  #   image: "/img/salon/salon_4029.jpg"
+  # - category: Studio
+  #   url: "#"
+  #   image: "/img/salon/salon_4026.jpg"
+  # - category: Studio
+  #   url: "#"
+  #   image: "/img/salon/salon_4015.jpg"
+  # - category: Studio
+  #   url: "#"
+  #   image: "/img/salon/salon_4021.jpg"
+  # - category: Studio
+  #   url: "#"
+  #   image: "/img/salon/salon_4030.jpg"
 
+  - category: Men
+    url: "#"
+    image: "/img/portfolio/work1.jpg"
   - category: Men
     url: "#"
     image: "/img/portfolio/work1.jpg"
   - category: Women
     url: "#"
-    image: "/img/portfolio/work1.jpg"
-  - category: Children
+    image: "/img/portfolio/work2.jpg"
+  - category: Women
     url: "#"
     image: "/img/portfolio/work2.jpg"
+  - category: Children
+    url: "#"
+    image: "/img/portfolio/work3.jpg"
+  - category: Children
+    url: "#"
+    image: "/img/portfolio/work3.jpg"
+  # - category: Children
+  #   url: "#"
+  #   image: "/img/portfolio/work2.jpg"
+  # - category: Men
+  #   url: "#"
+  #   image: "/img/portfolio/work1.jpg"
+  # - category: Women
+  #   url: "#"
+  #   image: "/img/portfolio/work1.jpg"
+  # - category: Children
+  #   url: "#"
+  #   image: "/img/portfolio/work2.jpg"
+  # - category: Men
+  #   url: "#"
+  #   image: "/img/portfolio/work1.jpg"
+  # - category: Women
+  #   url: "#"
+  #   image: "/img/portfolio/work1.jpg"
+  # - category: Children
+  #   url: "#"
+  #   image: "/img/portfolio/work2.jpg"
