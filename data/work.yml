@@ -6,6 +6,7 @@ portkeys:
   - category: Women
   - category: Men
   - category: Children
+  - category: Studio
 
 portfolio:
 
@@ -36,11 +37,45 @@ portfolio:
   - category: Women
     url: "img/women/IMG_3931.jpg"
     image: "img/women/thumbs/IMG_3931.jpg"
+  - category: Women
+    url: "img/women/woman_0529.jpg"
+    image: "img/women/thumbs/woman_0529.jpg"
+  - category: Women
+    url: "img/women/women_0531.jpg"
+    image: "img/women/thumbs/women_0531.jpg"
+  - category: Women
+    url: "img/women/women_0532.jpg"
+    image: "img/women/thumbs/women_0532.jpg"
 
+  - category: Men
+    url: "img/men/men_0524.jpg"
+    image: "img/men/thumbs/men_0524.jpg"
+  - category: Men
+    url: "img/men/men_0528.jpg"
+    image: "img/men/thumbs/men_0528.jpg"
+  - category: Men
+    url: "img/men/men_0530.jpg"
+    image: "img/men/thumbs/men_0530.jpg"
+  - category: Men
+    url: "img/men/men_0533.jpg"
+    image: "img/men/thumbs/men_0533.jpg"
   - category: Men
     url: "img/men/IMG_3933.jpg"
     image: "img/men/thumbs/IMG_3933.jpg"
 
   - category: Children
+    url: "img/children/children_0001.jpg"
+    image: "img/children/thumbs/children_0001.jpg"
+  - category: Children
     url: "img/children/IMG_3909.jpg"
     image: "img/children/thumbs/IMG_3909.jpg"
+
+  - category: Studio
+    url: "img/salon/salon_0003.jpg"
+    image: "img/salon/thumbs/salon_0003.jpg"
+  - category: Studio
+    url: "img/salon/salon_0345.jpg"
+    image: "img/salon/thumbs/salon_0345.jpg"
+  - category: Studio
+    url: "img/salon/salon_1504.jpg"
+    image: "img/salon/thumbs/salon_1504.jpg"
