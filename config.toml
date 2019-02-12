@@ -39,7 +39,7 @@ theme = "airspace-hugo"
   [params.wrapper]
     enable = true
     title = "Hello"
-    paragraph = "My name is Oskar and I am a professional hairstylist located in Burnaby, Vancouver. I have opened my new salon located at 4396 Imperial St. I am excited and look forward to provide professional solutions to make you look your very best! I am available for haircuts, shampoo, and styles every day of the week. Please call me and make an appointment for a pleasant and relaxing break in your day."
+    paragraph = "My name is Oskar, I am a professional hairstylist and specialize in Japanese hair style. My new salon is located Burnaby, Vancouver at 4396 Imperial St. I am excited and look forward to provide professional hair solutions to make you look your very best! I am available every day of the week. Please call me and make an appointment for a pleasant and relaxing break in your day."
 
   [params.feature]
     enable = false

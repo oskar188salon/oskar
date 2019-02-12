@@ -6,7 +6,6 @@ portkeys:
   - category: Women
   - category: Men
   - category: Children
-  - category: Studio
 
 portfolio:
 
@@ -45,19 +44,3 @@ portfolio:
   - category: Children
     url: "img/children/IMG_3909.jpg"
     image: "img/children/thumbs/IMG_3909.jpg"
-
-  - category: Studio
-    url: "img/salon/salon_4016.jpg"
-    image: "img/salon/thumbs/salon_4016.jpg"
-  - category: Studio
-    url: "img/salon/salon_4029.jpg"
-    image: "img/salon/thumbs/salon_4029.jpg"
-  - category: Studio
-    url: "img/salon/salon_4026.jpg"
-    image: "img/salon/thumbs/salon_4026.jpg"
-  - category: Studio
-    url: "img/salon/salon_4015.jpg"
-    image: "img/salon/thumbs/salon_4015.jpg"
-  - category: Studio
-    url: "img/salon/salon_4021.jpg"
-    image: "img/salon/thumbs/salon_4021.jpg"
